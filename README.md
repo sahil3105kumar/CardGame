@@ -1,6 +1,34 @@
 # CardGame
 A project focused on making a game which will help people of our generation relive their childhood.
 
+
+Rules:- 
+This is a multiplayer game, which will allow user to play it with a friend far far away and too close too.
+
+1.The player opens the app and is greeted with loading App animation.
+2.User is asked to Login/SignUp. (Only if there isn't any account logged in)
+3.The homepage displays the name of the game at the top and a lot of cards showing the type of card (E.g:- Superhero, Pokemon, Gods ...) to play or view.
+4.The user can select any card to view the complete list.
+4. In order to play, the user will be asked to create a room to invite friends.(At first it will handle two players, at later stage it will allow more).
+5. The user will choose a card(only the room creator will choose the type).
+
+The game progresses as follows.
+Each player gets a random card from the same type. All cards will have similar stat types.
+A random person will be choosen as leader of the first turn.
+He/She will choose a stat to compare, the one with bigger(or smaller depending on the type of stat) will be choosen as winner and will get a point.
+It will be the winner's turn next.
+The player to reach 20 points first will win.(We can also add the option to choose how much points to achieve in order to win)
+
+
+At later stage, we will start with each player having a set amount of card.
+The card used will be sent below the stack of cards.
+The winner will get the card of the looser and will be sent below the stack(it will be sent after his own card).
+The first to loose all cards, loses.
+
+In more developing phase, we can allow multiple player in a room and the rules will be same.
+In more than 2 players, the game will continue until one player has all the cards or he is the only player in the room.
+We can also add voice chat for more fun.
+
 The project will be developed in different phases.
 Phase 1: The User Interface (UI)
 
