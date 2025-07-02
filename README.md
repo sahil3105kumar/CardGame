@@ -22,7 +22,7 @@ The player to reach 20 points first will win.(We can also add the option to choo
 
 At later stage, we will start with each player having a set amount of card.
 The card used will be sent below the stack of cards.
-The winner will get the card of the looser and will be sent below the stack(it will be sent after his own card).
+The winner will get the card of the looser and it will be sent below the stack(it will be sent after his own card).
 The first to loose all cards, loses.
 
 In more developing phase, we can allow multiple player in a room and the rules will be same.
